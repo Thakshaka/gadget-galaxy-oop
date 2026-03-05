@@ -1,0 +1,3 @@
+admin,admin123,Admin
+user,user123,Customer
+test,test123,Admin

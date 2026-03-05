@@ -1,0 +1,6 @@
+Gadget,G1,iPhone 15,999.0,Apple,8
+Gadget,G2,MacBook Air,1199.0,Apple,5
+Gadget,G3,Galaxy S24,899.0,Samsung,15
+Gadget,G4,Dell XPS,1399.0,Dell,3
+Gadget,G5,Sample Gadget,299.99,Generic,2
+Smartphone,G6,iPhone 8 Plus,300.0,Apple,100,iOS,4
